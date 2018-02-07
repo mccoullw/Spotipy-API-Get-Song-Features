@@ -1,9 +1,6 @@
 from __future__ import print_function    # (at top of module)
 from spotipy.oauth2 import SpotifyClientCredentials
 
-import builtins
-import numpy as np
-import sys
 import spotipy
 import spotipy.util as util
 import requests
